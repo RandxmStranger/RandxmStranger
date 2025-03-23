@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @RandxmStranger
-- 👀 I’m interested in skateboarding and computers
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
